@@ -1,1 +1,7 @@
-// your python code to implement the features could be placed here
+# This is the implementation of the fansite-analytics-challenge from Insight Data Engineering
+# @author: Karthik Ramakrishnan
+# @version 1.0
+#
+
+# Header files go here
+import sys
